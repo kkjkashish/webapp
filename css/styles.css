@@ -1,0 +1,33 @@
+body {
+  background-color: #C3EDEA;
+  font-family: 'Merriweather', serif;
+  margin: 0;
+}
+
+.top-container {
+  color: #649d66;
+  font-family: 'Work Sans', sans-serif;
+  text-align: center;
+  position: relative;
+  padding-top: 50px;
+}
+
+h1 {
+  padding-top: 20px;
+}
+
+hr {
+  border-style: none;
+  height: 2px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 250px;
+  top: 50px;
+}
